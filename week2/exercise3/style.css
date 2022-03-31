@@ -1,0 +1,40 @@
+.style1 {
+    background-color: blue;
+    float: left;
+    padding: 2%;
+    margin: 2%;
+    width: 42%;
+    border-radius: 10px;
+}
+
+.style2 {
+    background-color:#a600ff;
+    display: inline-block;
+    padding: 2%;
+    margin: 2%;
+    width: 42%;
+    border-radius: 10px;
+}
+
+.style3 {
+    background-color: #61fd66;
+    float: left;
+    padding: 2%;
+    margin: 2%;
+    width: 42%;
+    border-radius: 10px;
+}
+
+.style4 {
+    background-color: #9f3585;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 2%;
+    width: 42%;
+}
+
+body {
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

@@ -1,0 +1,30 @@
+.style1 > h2 {
+    color: red;
+}
+
+.style1 > p {
+    background-color: black;
+    color: white;
+}
+
+.style2 > h2 {
+    color: green;
+}
+
+.style2 > p {
+    background-color: darkred;
+    color: green;
+}
+
+.style3 > p {
+    color: green;
+}
+
+.style3 div {
+    color: green;
+}
+
+.style4 > p {
+    color: green;
+}
+
